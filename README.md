@@ -60,9 +60,16 @@ navigator.mediaDevices.getDisplayMedia({
 Add screenshots from real browser runs here:
 
 - `docs/screenshots/home.png`
+  ![docs/screenshots/home.png](https://github.com/DishankM/Screen_Sharing_Test/blob/main/Screenshot%202026-02-21%20102800.png?raw=true)
+  
 - `docs/screenshots/requesting.png`
+  ![docs/screenshots/requesting.png](https://github.com/DishankM/Screen_Sharing_Test/blob/main/Screenshot%202026-02-21%20102813.png?raw=true)
+  
 - `docs/screenshots/active-preview.png`
+  ![docs/screenshots/active-preview.png](https://github.com/DishankM/Screen_Sharing_Test/blob/main/Screenshot%202026-02-21%20102902.png?raw=true)
+
 - `docs/screenshots/stopped.png`
+  ![docs/screenshots/stopped.png](https://github.com/DishankM/Screen_Sharing_Test/blob/main/Screenshot%202026-02-21%20102919.png?raw=true)
 
 ## Known Limitations / Browser Quirks
 
